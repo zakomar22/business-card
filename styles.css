@@ -1,0 +1,21 @@
+body {
+    margin: 20px;
+    font-family: cursive;
+}
+.zak {
+    width: 150px;
+}
+.card {
+   margin: 0 auto; 
+   width: 400px;
+   padding: 20px;
+   display: flex; 
+   justify-content: space-around;
+   text-align: center;
+   background: #4CC9F0;
+   color: #FF9E;
+   border-bottom: 6px solid #4361EE;
+}
+.border-blue {
+     border: 1px dotted blue;
+}    
